@@ -298,7 +298,7 @@ def update_graph(select_continent):
     return bar(data1,select_continent,'gdpPercap','country','gdpPercap')
 ```
 
-#  Running the server
+#  Run the server
 
 
 ```python
